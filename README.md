@@ -146,3 +146,10 @@ GitHub还支持多级别的list列表条目：
 	  </tr>
 	</table>
 </div>
+
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
