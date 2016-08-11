@@ -1,7 +1,8 @@
 #Markdown 语法说明 (简体中文版)
-[http://wowubuntu.com/markdown/#editor]
+[http://wowubuntu.com/markdown/]
 
 ***
+---
 
 针对中文,演示Markdown的各种语法
   
