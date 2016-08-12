@@ -152,3 +152,6 @@ GitHub还支持多级别的list列表条目：
 	</table>
 </div>
 
+```html
+<img/>
+```
